@@ -9,15 +9,12 @@ import sys
 
 #importlib.reload(autogpt.cli)
 
-
 #import app.diff.llm.llm_utils
 #from autogpt.llm import create_chat_completion
 #import autogpt.llm.llm_utils
 
-
 #sys.modules['autogpt.llm'].create_chat_completion=sys.modules['app.diff.llm.llm_utils'].create_chat_completion
 #sys.modules['autogpt.llm.llm_utils'].create_chat_completion=sys.modules['app.diff.llm.llm_utils'].create_chat_completion
-
 
 import autogpt.logs
 #import diff.logs
@@ -34,9 +31,6 @@ autogpt.logs.Logger.setFast=setFast
 autogpt.logs.logger.setFast()
 
 #logger = autogpt.logs.Logger(1)
-
-
-
 
 #sys.modules['autogpt.logs'].TypingConsoleHandler=sys.modules['autogpt.logs'].ConsoleHandler
 #from autogpt.logs import TypingConsoleHandler

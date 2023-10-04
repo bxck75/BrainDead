@@ -5,7 +5,6 @@ from autogpt.config.ai_config import AIConfig
 import threading
 
 
-
 def startThread(cid,args,queue):
     local_data = threading.local()
 
@@ -32,14 +31,12 @@ def startThread(cid,args,queue):
     workspace_directory = f"sessions/workspace_{cid}"
     install_plugin_deps = ""
 
-    # TODO: Load from ai_setttings_{lang}
-
+    # TODO: Load from ai_setttings_{lang
     #(ai_name, ai_role, ai_goals, api_budget)
 
     config=AIConfig("Braindler", "a large language model trained by NativeMind. I want you to act as an AI for autonomous automatic solving tasks.",args["goals"],0.0) 
     #config=generate_aiconfig_automatic(args["goals"][0])
     config.save(ai_settings) #CFG.ai_settings_file)
-
 
     run_auto_gpt(
         continuous,

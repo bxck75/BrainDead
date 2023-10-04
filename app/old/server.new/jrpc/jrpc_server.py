@@ -5,8 +5,6 @@ import json
 import os
 from dotenv import load_dotenv
 
-
-
 class JRPCRequestHandler(BaseHTTPRequestHandler):
     def do_POST(self):
         content_len = int(self.headers.get('content-length'))
