@@ -1,5 +1,5 @@
 
-![BrainDead](assets/Robots.png)
+![BrainDead]{height="300x" width="300x"}(assets/Robots.png)
 
 ##(K00B404)## would begin by saying it always better to:
 
@@ -55,14 +55,6 @@ free interaction and makes the AI assistant more versatile and convenient to use
 - 🤖 **Autonomy:**  autonomously breaks down complex tasks and achieves goals without requiring constant human input or manual commands for every task.
 - 📣 **Queue Prompts:** Prompt operator when action is required instead of waiting indefinitely.
 
-
-      🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚫ ⚪ 🔘🌐  Supported Actions for Platforms  🌐 🔘 ⚪ ⚫ 🔘 🟢 🟣 🔵 🔵 🟡 🟠 🔴
-
-          📱 Telegram   💬 WhatsApp   🌐 LINE   🇨🇳 WeChat   📧 Email   👥 Facebook 
-
-                            🐦 Twitter   - 🐙 GitHub
-
-- .Additionally, you can create custom integrations using our plugin system to connect with your preferred platforms 
 
                 🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚫ ⚪ 🔘🌐  How to try 🌐 🔘 ⚪ ⚫ 🔘 🟢 🟣 🔵 🔵 🟡 🟠 🔴
 
@@ -131,3 +123,10 @@ free interaction and makes the AI assistant more versatile and convenient to use
 
 - 🌍 **Localization & Internationalization:** Help us make  accessible to users worldwide by contributing to the translation and localization of the user interface, documentation, and other resources.
 - 🔧 **Quality Assurance & Testing:** Work with us to identify and fix bugs, perform testing, and ensure the overall quality and stability of .
+        🔴 🟠 🟡 🟢 🔵 🟣 🟤 ⚫ ⚪ 🔘🌐  Supported Actions for Platforms  🌐 🔘 ⚪ ⚫ 🔘 🟢 🟣 🔵 🔵 🟡 🟠 🔴
+
+                📱 Telegram   💬 WhatsApp   🌐 LINE   🇨🇳 WeChat   📧 Email   👥 Facebook 
+
+                                        🐦 Twitter   - 🐙 GitHub
+
+- .Additionally, you can create custom integrations using our plugin system to connect with your preferred platforms 
