@@ -1,5 +1,5 @@
 
-![BrainDead](assets/Robots.png){:height="300x" width="300x"}.
+![BrainDead](assets/Robots.png)
 
 ##(K00B404)## would begin by saying it always better to:
 
