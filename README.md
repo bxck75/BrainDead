@@ -1,12 +1,12 @@
 
-![BrainDead]{height="300x" width="300x"}(assets/Robots.png)
+![BrainDead](assets/Robots.png)
 
 ##(K00B404)## would begin by saying it always better to:
 
-    --🛠️{1} Not beat a sick horse 
-    --🛠️{2} Not ride a horse if is not feeling well.
-    --🛠️{3} Not make it a new sadle, browser integration or Telegram Bot
-    --📚{4} Bring the horse to the vet if its teathering on the brink of collapse! 
+                            --🛠️{1} Not beat a sick horse 
+                    --🛠️{2} Not ride a horse if is not feeling well.
+            --🛠️{3} Not make it a new sadle, browser integration or Telegram Bot
+      --📚{4} Bring the horse to the vet if its teathering on the brink of collapse! 
 
 Don't take my word for it.....!Just ask one of the agents on the front end .
 
