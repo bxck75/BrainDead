@@ -1,4 +1,6 @@
 .env
+./vendor/autogpt/scripts
+./vendor/autogpt/autogpt
 app/.env
 plugins/*
 vendor/
